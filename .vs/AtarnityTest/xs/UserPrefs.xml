@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B80E366B-24AC-4261-98FD-AEA03FA72E25}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AtarnityTest/Web.config">
+    <Files>
+      <File FileName="AtarnityTest/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="AtarnityTest/Controllers/MyController.cs" Line="63" Column="15" />
+      <File FileName="AtarnityTest/Models/MyModel.cs" Line="1" Column="1" />
+      <File FileName="AtarnityTest/Web.config" Line="45" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AtarnityTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
